@@ -1,0 +1,16 @@
+C:\Users\BruninhoF4\source\repos\Blackjack\Blackjack\bin\Debug\netcoreapp3.1\Blackjack.exe
+C:\Users\BruninhoF4\source\repos\Blackjack\Blackjack\bin\Debug\netcoreapp3.1\Blackjack.deps.json
+C:\Users\BruninhoF4\source\repos\Blackjack\Blackjack\bin\Debug\netcoreapp3.1\Blackjack.runtimeconfig.json
+C:\Users\BruninhoF4\source\repos\Blackjack\Blackjack\bin\Debug\netcoreapp3.1\Blackjack.runtimeconfig.dev.json
+C:\Users\BruninhoF4\source\repos\Blackjack\Blackjack\bin\Debug\netcoreapp3.1\Blackjack.dll
+C:\Users\BruninhoF4\source\repos\Blackjack\Blackjack\bin\Debug\netcoreapp3.1\Blackjack.pdb
+C:\Users\BruninhoF4\source\repos\Blackjack\Blackjack\obj\Debug\netcoreapp3.1\Blackjack.csprojAssemblyReference.cache
+C:\Users\BruninhoF4\source\repos\Blackjack\Blackjack\obj\Debug\netcoreapp3.1\Blackjack.Form1.resources
+C:\Users\BruninhoF4\source\repos\Blackjack\Blackjack\obj\Debug\netcoreapp3.1\Blackjack.Properties.Resources.resources
+C:\Users\BruninhoF4\source\repos\Blackjack\Blackjack\obj\Debug\netcoreapp3.1\Blackjack.csproj.GenerateResource.cache
+C:\Users\BruninhoF4\source\repos\Blackjack\Blackjack\obj\Debug\netcoreapp3.1\Blackjack.AssemblyInfoInputs.cache
+C:\Users\BruninhoF4\source\repos\Blackjack\Blackjack\obj\Debug\netcoreapp3.1\Blackjack.AssemblyInfo.cs
+C:\Users\BruninhoF4\source\repos\Blackjack\Blackjack\obj\Debug\netcoreapp3.1\Blackjack.csproj.CoreCompileInputs.cache
+C:\Users\BruninhoF4\source\repos\Blackjack\Blackjack\obj\Debug\netcoreapp3.1\Blackjack.dll
+C:\Users\BruninhoF4\source\repos\Blackjack\Blackjack\obj\Debug\netcoreapp3.1\Blackjack.pdb
+C:\Users\BruninhoF4\source\repos\Blackjack\Blackjack\obj\Debug\netcoreapp3.1\Blackjack.genruntimeconfig.cache
